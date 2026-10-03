@@ -21,6 +21,8 @@ A professionally edited **bodycam documentary-style YouTube video** created from
 **Watch the full edited video:**
 [Google Drive – View Video](https://drive.google.com/file/d/1pY2R1SP94kgv47md4ONj8Y4uHnwBoZMH/view?usp=sharing)
 
+https://drive.google.com/file/d/1SFbBx98SbMZ1GPJNBXrY3B7x-36v0QQM/view?usp=sharing
+
 ## 🛠️ Project Goal
 
 The goal of this project was to transform raw bodycam footage into an engaging, professional **police/bodycam documentary** with clear storytelling and visually appealing editing.
